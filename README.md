@@ -1,20 +1,20 @@
-# [Project Name] - Team [X]
+# Airbnb Pricing Analysis - Team 7
 
 **DATA 4950 Data Science Capstone | Spring 2026**
 
-**Team Members:** [List your names here]
+**Team Members:** Jessie Dicker, Norma Arredondo
 
 ---
 
 ## Project Overview
 
-[Write 2-3 sentences describing your project. What problem are you solving? What data are you using?]
+We are using Airbnb pricing data to predict the price (per night) of Airbnbs in New York City. We use a regression model to analyze the pricing data. 
 
 ## Dataset
 
 | Item | Description |
 |------|-------------|
-| **Source** | [Where did you get the data?] |
+| **Source** | Kaggle.com |
 | **Size** | [How many rows and columns?] |
 | **Target Variable** | [What are you predicting?] |
 | **Task Type** | [Classification / Regression] |
